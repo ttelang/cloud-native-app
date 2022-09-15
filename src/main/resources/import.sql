@@ -1,0 +1,4 @@
+INSERT INTO AUTHOR (ID, NAME, EMAIL, BIO) VALUES (1, 'Tarun', 'tarun@email.com', 'Bio of Tarun');
+INSERT INTO AUTHOR (ID, NAME, EMAIL, BIO) VALUES (2, 'John', 'john@email.com', 'Bio of John');
+INSERT INTO BOOK (ID, TITLE, DESCRIPTION, IMAGE, ISBN, PAGE_COUNT, PUBLISHED_DATE) VALUES (1, 'Introducing Java 17', 'Overview of Java 17 Fundamentals', 'java17cover.png', '978-1-4842-8093-5', 120, '2022-03-29');
+INSERT INTO BOOK (ID, TITLE, DESCRIPTION, IMAGE, ISBN, PAGE_COUNT, PUBLISHED_DATE) VALUES (2, 'Introducing GraalVM', 'Building High Performing Java Applicaitons', 'graalvm.png', '978-1-4842-8119-2', 150, '2022-03-30');
